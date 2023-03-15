@@ -36,3 +36,12 @@ Add additional notes to deploy this on a live system
 
 - [Contributor Covenant](https://www.google.com) - Used for the Code of Conduct
 - [Creative Commons](https://www.google.com) - Used to choose the license
+
+### Authors
+
+- **Programmer A** - provided README template [Profile A](https://google.com)
+- **Programmer B** - provided README template [Profile A](https://google.com)
+
+See also the list of 
+[contributors](https://www.google.com)
+who participated in this project
