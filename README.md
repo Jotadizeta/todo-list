@@ -45,3 +45,8 @@ Add additional notes to deploy this on a live system
 See also the list of 
 [contributors](https://www.google.com)
 who participated in this project
+
+## License
+
+This project is licensed under the [CCo 1.o Universal](https://www.google.com)
+Creative Commons License - see the [LICENSE.md](https://www.google.com) file for details
