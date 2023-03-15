@@ -27,3 +27,12 @@ And repeat
     until finished
 
 End with an example of getting some dataout of the system or using it for a little demo
+
+### Deployment
+
+Add additional notes to deploy this on a live system
+
+### Built With
+
+- [Contributor Covenant](https://www.google.com) - Used for the Code of Conduct
+- [Creative Commons](https://www.google.com) - Used to choose the license
